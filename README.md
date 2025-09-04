@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarzoo Panwar</h1>
 <h3 align="center">A passionate Ai Engineer from India</h3>
 
-- 🔭 I’m currently working on [Loan Predictor Ai Model](https://loan-predictor-ai-model.onrender.com/)
+- 🔭 I’m currently working on AI-Powered Multi-Domain Recommendation System
 
 - 🌱 I’m currently learning **machine learning**
 
