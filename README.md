@@ -19,6 +19,7 @@ aarzoo = {
     "location"   : "Gurugram, Haryana 🇮🇳",
     "education"  : "B.Tech CSE (AI & ML) — DPG ITM, 2026",
     "training"   : "Data Science @ QSpiders",
+    "portfolio"  : "https://aaru-0653.github.io",
     "currently"  : ["Building SENTRY — AI Powered Surveillance System",
                     "Learning Advanced Generative AI"],
     "ask_me_about": ["ML models", "Data Analysis", "Power BI dashboards", "SQL"],
@@ -135,7 +136,10 @@ aarzoo = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarzoo-panwar0653/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aaru-0653.github.io)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1WpCD9LGJL5VkjQnmkEiija_qaxrKC3f1/view?usp=sharing)
+[![WhatsApp](https://img.shields.io/badge/Hire%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919350370653)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarzoo-panwar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaru-0653)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaru.panwar1111@gmail.com)
 
