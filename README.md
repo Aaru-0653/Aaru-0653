@@ -36,7 +36,6 @@ aarzoo = {
 
 > Real-time threat detection · Gemini Vision VLM · FastAPI Backend · React Dashboard · Twilio SMS Alerts
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaru-0653&repo=Sentry&theme=tokyonight&hide_border=true)](https://github.com/Aaru-0653/Sentry)
 
 </div>
 
